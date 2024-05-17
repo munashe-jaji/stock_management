@@ -127,8 +127,8 @@
 <li class="submenu-open">
 <h6 class="submenu-hdr">Stock</h6>
 <ul>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/manage-stocks.html"><i data-feather="package"></i><span>Manage Stock</span></a></li>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/stock-transfer.html"><i data-feather="truck"></i><span>Stock Transfer</span></a></li>
+<li><a href="/managestock"><i data-feather="package"></i><span>Manage Stock</span></a></li>
+<li><a href="/transferstock"><i data-feather="truck"></i><span>Stock Transfer</span></a></li>
 </ul>
 </li>
 </ul>
@@ -209,8 +209,8 @@
 <li><a href="/createproducts"><span>Create Product</span></a></li>
 </ul>
 <ul class="tab-pane" id="purchase" aria-labelledby="report-tab">
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/manage-stocks.html"><span>Manage Stock</span></a></li>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/stock-transfer.html"><span>Stock Transfer</span></a></li>
+<li><a href="/managestock"><span>Manage Stock</span></a></li>
+<li><a href="/transferstock"><span>Stock Transfer</span></a></li>
 </li>
 </ul>
 </div>
@@ -247,8 +247,8 @@
 <li class="submenu">
 <a href="javascript:void(0);"><span>Purchase</span><span class="menu-arrow"></span></a>
 <ul>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/manage-stocks.html"><span>Manage Stock</span></a></li>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/stock-transfer.html"><span>Stock Transfer</span></a></li>
+<li><a href="/managestock"><span>Manage Stock</span></a></li>
+<li><a href="/transfaerstock"><span>Stock Transfer</span></a></li>
 </ul>
 </li>
 </ul>
