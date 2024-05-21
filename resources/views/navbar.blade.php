@@ -113,7 +113,7 @@
 <li class="submenu">
 <a href="javascript:void(0);" class="subdrop active"><i data-feather="grid"></i><span>Dashboard</span><span class="menu-arrow"></span></a>
 <ul>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/index.html" class="active">Admin Dashboard</a></li>
+<li><a href="/netfusionadmin" class="active">Admin Dashboard</a></li>
 
 </ul>
 </li>
@@ -201,7 +201,7 @@
 <li class="submenu">
 <a href="javascript:void(0);" class="active"><span>Dashboard</span> <span class="menu-arrow"></span></a>
 <ul>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/index.html" class="active">Admin Dashboard</a></li>
+<li><a href="/netfusionadmin" class="active">Admin Dashboard</a></li>
 </ul>
 </li>
 <ul class="tab-pane" id="product" aria-labelledby="messages-tab">
@@ -228,7 +228,7 @@
 <li class="submenu">
 <a href="javascript:void(0);" class="active subdrop"><span>Dashboard</span> <span class="menu-arrow"></span></a>
 <ul>
-<li><a href="https://dreamspos.dreamstechnologies.com/html/template/index.html" class="active">Admin Dashboard</a></li>
+<li><a href="/netfusionadmin" class="active">Admin Dashboard</a></li>
 </ul>
 </li>
 </ul>
